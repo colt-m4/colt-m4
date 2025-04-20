@@ -1,4 +1,4 @@
-<img src="https://link-to-your-image.jpg](https://i.ibb.co/8DZNnbmz/RENTRY-IMG-SIMON.jpg">
+<img src="https://i.ibb.co/8DZNnbmz/RENTRY-IMG-SIMON.jpg">
 
 <p align="center">
   calvin ; simon <br>
