@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/8DZNnbmz/RENTRY-IMG-SIMON.jpg">
+<p align="center">
+  <img src="https://i.ibb.co/8DZNnbmz/RENTRY-IMG-SIMON.jpg" alt="Centered Image">
+</p>
 
 <p align="center">
   calvin ; simon <br>
