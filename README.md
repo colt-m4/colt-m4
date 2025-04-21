@@ -11,6 +11,6 @@
 <p align="center">
   <a href="https://en.pronouns.page/@colt-m4">pronouns page</a> ・ 
   <a href="https://kyanrov.neocities.org/">neocities</a> ・ 
-  <a href="https://spacehey.com/profile?id=3573564">spacehey</a> ・ 
+  <a href="https://spacehey.com/radiohead_fan">spacehey</a> ・ 
   <a href="https://www.instagram.com/radiohead_fan06482/">insta</a>
 </p>
