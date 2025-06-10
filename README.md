@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co/8DZNnbmz/RENTRY-IMG-SIMON.jpg" alt="Centered Image">
+  <img src="https://i.ibb.co/bRD4Dsr1/image.png">
 </p>
 
 <p align="center">
-  calvin ; simon <br>
+  calvin ; church <br>
   <i>he † him</i> <br>
   <b>whisper 2 int !</b>
 </p>
