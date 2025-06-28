@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://pronouns.cc/@imperial">pronouns.cc</a> ・ 
-  <a href="https://neocities.org/">neocities</a> ・ 
+  <a href="https://rentry.co/aeglium/">rentry</a> ・ 
   <a href="https://www.instagram.com/radiohead_fan06482/">insta</a> ・
 </p>
